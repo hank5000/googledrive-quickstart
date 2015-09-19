@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-7a08439ac8fda272195b00b533f0e68fe8c33658.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-drive\v2-rev170-1.20.0\cac1b8bf96295246293ff03bd7c5daaa6f0adb47\google-api-services-drive-v2-rev170-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cac1b8bf96295246293ff03bd7c5daaa6f0adb47">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-api-services-drive-v2-rev170-1.20.0-5e5d838e837a1c22e7ed8a52b0581e8cc818263a.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-5a5afc39a277203f333d6cfce4ddddd08a3db56f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.20.0\9204765f39000f6109c927ac66c7963bf9c7df19\google-http-client-gson-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-http-client-gson-1.20.0-4f33d5d43337871f41cfd71ceb4e385e6fe53cf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-eca578fc2f6a8c1b28f4f93f0e560aebf51f55f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-d97e4c3e28a76d32fb97030469b906be2e59a54d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-bddca61af8b705917dd01d9861c0e8033f82b1ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-2d531d6dec39b7c15f096cb0f01f1ce34488019c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\gson-2.1-855655240e2fe1f124c920b5af92fe95b6445c46.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0-ed65dbcdf03c8b0dbec2e0303e78a19f3dad9909.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-4b8eece188e27ee3830b034475cf5b618478d8ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-c6b40438eebf9620012c41565008b30b23f95bc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-ccd5bb37f19ad396e27e22eec23b746a75e01736.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-5901536b1641030b97db58e399ebfcdf63d3f4b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-14203b7e2f82e3068994c3836c72a3f2c82a121b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.20.0-9e6ac9d7c5a055308ef12998a062f3aaa973563c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-b172b6bea37eac094c3ae4dd2b05dc9a4d9b56f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-d26d609f93050f53cb646c1c5879fa3959c65e4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-gson\1.20.0\ace1924800ca8c256f6a3f63e72ee13e1b458d36\google-api-client-gson-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ace1924800ca8c256f6a3f63e72ee13e1b458d36">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-api-client-gson-1.20.0-78d051138a67a3b8cd01323276046c4534d211df.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8fc50511dd9e673eb5773f917b01307e46134e8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-a0f14e4b0f6d9add57eed5625d3c7fd2c2f8bd52.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.20.0-8005acb775ba669f7f52b2ded4fd96e8808fcbef.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0-98cd502d2a6f05c3d7d644a547360ac9d35e6f2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-1d754b22ab8a8b4fe7f42ebe81c7510cbc44b270.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-3cc30e98e8f8934ea6398a4b3dda5ae48802d7f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-7a75d240fd494d79e1d9763ee625521b418a3c5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-ec9375b4211e4c0d141149a04f79948ea3762b69.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-58b64fbd205e6f037c127eb0940584fd308d7c6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-0d3cacdbd5b61764001d8e6b29e6fa9cf7eb3b97.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-e2e19585b53f0694ec64d965e6e8600a60e43e36.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0-0a60d3deaf5fedda88eb1a56a8b6ce0bd80e726c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-e475da0c236acc262e7f19a484dd431b088364ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-29ef15ee3d85463fe12b9e777e47abee50e57ee0.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-130e6d0ef3aa20efbea305763ea2b1ffbdd1560d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0-24910be27b512b573ca4148e5ab76e33798eddc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\dell11\Documents\GitHub\googledrive\app\build\intermediates\pre-dexed\debug\classes-7bc14f44c09238a0f9a5ef9732fbc3832962f647.jar" />
+    </item>
+
+</items>
